@@ -1,4 +1,4 @@
-# 동행복권 자동으로 구매 (puppeteer_auto_lotto)
+# 동행복권 자동구매 (puppeteer_auto_lotto)
 
 ### 설치
 - npm i puppeteer
