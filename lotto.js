@@ -29,13 +29,6 @@ dotenv.config();
     await client.send('Network.clearBrowserCookies');
     await client.send('Network.clearBrowserCache');
 
-    // Screen
-    // await page.setViewport({
-    //   width: 1920,
-    //   height: 1080,
-    // })
-
-
     // Move url
     await page.goto('https://dhlottery.co.kr/user.do?method=login&returnUrl=',{
       waitUntil: 'networkidle0'
