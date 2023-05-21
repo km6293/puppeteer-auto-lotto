@@ -1,4 +1,4 @@
-# puppeteer_auto_lotto
+# puppeteer-auto-lotto
 > **창작 계기 : 회사에서 직접 만든 PDF 캡쳐해야 될 일이 있어서 puppeteer라는 API라는것을 쓰게 되었는데, 또 다른 방식으로 쓸 수 있지않을까 하는 생각으로 실생활에서 반복적으로 하는일을 찾아보다가 심심할때마다 사는 복권들을 자동화 시키고 싶어서 [동행복권](https://dhlottery.co.kr/common.do?method=main) 자동구매를 만들게 되었다.** <br/><br/> **제작 기간 : 2022/07 ~ 일주일 이내**
 
 ### 직접 수정해야될 것
